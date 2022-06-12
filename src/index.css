@@ -1,4 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
 body{
   font-family: 'Nunito',arial,sans-serif;
   overflow-x: hidden;
+  font-size: 14px;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.app{
+  display: flex;
+  color: #fff;
+  background-color: #181818;
 }
